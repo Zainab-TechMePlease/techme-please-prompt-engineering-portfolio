@@ -26,3 +26,4 @@ This repository documents a 30‑day journey to develop expertise in AI prompt e
 2. Save best example to `examples/day_01/blockchain_example.txt`.
 3. Publish using the steps in `PUBLISH.md`.
 
+Last updated: Aug 26, 2025
